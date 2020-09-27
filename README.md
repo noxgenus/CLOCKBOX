@@ -13,4 +13,4 @@ Prototype Midi/DinSync Master Clock Generator with clock offset capability per o
 ..* Power socket<br>
 ..* 5V 2A PSU<br>
 <br><br>
-<img src="clockbox_V2.4.0_build.jpg" title="build">
+<img src="clockbox_build.jpg" title="build">
